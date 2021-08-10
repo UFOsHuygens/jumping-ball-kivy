@@ -1,1 +1,1 @@
-# jumping-ball-kivy
+#### Script simples para saltar um objeto sob efeito da gravidade
